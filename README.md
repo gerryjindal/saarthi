@@ -1,7 +1,7 @@
 
-# Saarthi - Emotion Reflection Tool 🧠💬
+# Sarthi - Emotion Reflection Tool 🧠💬
 
-Saarthi is a simple, full-stack web application that allows users to submit short emotional reflections and receive a mock emotion analysis in return.
+Sarthi is a simple, full-stack web application that allows users to submit short emotional reflections and receive a mock emotion analysis in return.
 
 Built with:
 
@@ -26,8 +26,8 @@ Ensure you have the following installed:
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/gerryjindal/saarthi.git
-cd saarthi
+git clone https://github.com/gerryjindal/sarthi.git
+cd sarthi
 ```
 
 ---
