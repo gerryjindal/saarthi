@@ -1,0 +1,34 @@
+# ========== FRONTEND: Next.js ==========
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/.env.development
+frontend/.env.production
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/*.tsbuildinfo
+
+# ========== BACKEND: Flask ==========
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.pyo
+backend/*.pyd
+backend/*.db
+backend/*.sqlite3
+backend/*.egg-info/
+backend/instance/
+backend/.env
+backend/venv/
+backend/.env.*
+
+# ========== COMMON ==========
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.log
+logs/
